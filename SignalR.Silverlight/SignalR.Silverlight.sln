@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Silverlight", "SignalR.Silverlight\SignalR.Silverlight.csproj", "{CDE270AB-729B-407B-8B2D-0CB48163FF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Silverlight.Web", "SignalR.Silverlight.Web\SignalR.Silverlight.Web.csproj", "{AB5862B0-09D2-4CBD-B8AC-A0B23B8D9B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalLines.Common", "..\..\..\GitHub\SignalRSandbox\SignalRSandbox\SignalLines.Common\SignalLines.Common.csproj", "{2EED0985-818E-47E5-BEF1-84554436D01B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE270AB-729B-407B-8B2D-0CB48163FF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE270AB-729B-407B-8B2D-0CB48163FF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE270AB-729B-407B-8B2D-0CB48163FF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE270AB-729B-407B-8B2D-0CB48163FF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5862B0-09D2-4CBD-B8AC-A0B23B8D9B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5862B0-09D2-4CBD-B8AC-A0B23B8D9B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5862B0-09D2-4CBD-B8AC-A0B23B8D9B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5862B0-09D2-4CBD-B8AC-A0B23B8D9B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EED0985-818E-47E5-BEF1-84554436D01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EED0985-818E-47E5-BEF1-84554436D01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EED0985-818E-47E5-BEF1-84554436D01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EED0985-818E-47E5-BEF1-84554436D01B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
